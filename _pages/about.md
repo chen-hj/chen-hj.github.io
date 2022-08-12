@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at ETH Zurich, advised by [David Steurer](https://www.dsteurer.org).
+I am a PhD student in the Department of Computer Science at ETH Zurich, advised by [David Steurer](https://www.dsteurer.org).
 
 I am interested in theoretical computer science, especially algorithms and complexity of problems arising in machine learning and high-dimensional statistics.
 
@@ -21,6 +21,4 @@ I am interested in theoretical computer science, especially algorithms and compl
 
 ## Publications
 
-- [On the well-spread property and its relation to linear regression](https://arxiv.org/abs/2206.08092)
-with [Tommaso d'Orsi](https://n.ethz.ch/~dorsit/).
-**COLT 2022**.
+  - **On the well-spread property and its relation to linear regression** with [Tommaso d'Orsi](https://n.ethz.ch/~dorsit/). *COLT 2022*. [arxiv](https://arxiv.org/abs/2206.08092)
