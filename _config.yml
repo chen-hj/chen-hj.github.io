@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Hongjie Chen"
+  # name             : "Hongjie Chen"
   avatar           : "profile.png"
   bio              : "hongjie dot chen at inf dot ethz dot ch"
   # location         : "Location"
