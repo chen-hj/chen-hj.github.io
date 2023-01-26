@@ -21,7 +21,7 @@ I am interested in theoretical computer science, especially algorithms and compl
 
 ## Publications
 
-  - **Private estimation algorithms for stochastic block models and mixture models** with [Vincent Cohen-Addad](https://www.di.ens.fr/~vcohen/), [Tommaso d'Orsi](https://n.ethz.ch/~dorsit/), [Alessandro Epasto](https://www.epasto.org), [Jacob Imola](https://jimola.github.io), [David Steurer](https://www.dsteurer.org), Stefan Tiegel. *In submission, 2022*. [arxiv](https://arxiv.org/abs/2301.04822)
+  - **Private estimation algorithms for stochastic block models and mixture models** with [Vincent Cohen-Addad](https://www.di.ens.fr/~vcohen/), [Tommaso d'Orsi](https://n.ethz.ch/~dorsit/), [Alessandro Epasto](https://www.epasto.org), [Jacob Imola](https://jimola.github.io), [David Steurer](https://www.dsteurer.org), [Stefan Tiegel](https://stefantiegel.com). *In submission, 2022*. [arxiv](https://arxiv.org/abs/2301.04822)
   
   - **On the well-spread property and its relation to linear regression** with [Tommaso d'Orsi](https://n.ethz.ch/~dorsit/). *COLT 2022*. [arxiv](https://arxiv.org/abs/2206.08092)
 
