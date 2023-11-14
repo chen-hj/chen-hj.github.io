@@ -21,11 +21,15 @@ I am interested in theoretical computer science, especially algorithms and compl
 
 ## Publications
 
-  - **Private estimation algorithms for stochastic block models and mixture models** with [Vincent Cohen-Addad](https://www.di.ens.fr/~vcohen/), [Tommaso d'Orsi](https://n.ethz.ch/~dorsit/), [Alessandro Epasto](https://www.epasto.org), [Jacob Imola](https://jimola.github.io), [David Steurer](https://www.dsteurer.org), [Stefan Tiegel](https://stefantiegel.com). *In submission, 2022*. [arxiv](https://arxiv.org/abs/2301.04822)
-  
-  - **On the well-spread property and its relation to linear regression** with [Tommaso d'Orsi](https://n.ethz.ch/~dorsit/). *COLT 2022*. [arxiv](https://arxiv.org/abs/2206.08092)
+- **Private graphon estimation via sum-of-squares** with Jingqiu Ding, Tommaso d'Orsi, Yiding Hua, David Steurer, Chih-Hung Liu. *In submission, 2023*.
+
+- **Private estimation algorithms for stochastic block models and mixture models** with Vincent Cohen-Addad, Tommaso d'Orsi, Alessandro Epasto, Jacob Imola, David Steurer, Stefan Tiegel. *NeurIPS 2023 (spotlight)*. [arxiv](https://arxiv.org/abs/2301.04822)
+
+- **On the well-spread property and its relation to linear regression** with Tommaso d'Orsi. *COLT 2022*. [arxiv](https://arxiv.org/abs/2206.08092)
 
 
 ## Teaching
-  - [Optimization for Data Science](https://ti.inf.ethz.ch/ew/courses/ODS23/index.html), teaching assistant, Spring 2023
-  - [Algorithms and Data Structures](https://cadmo.ethz.ch/education/lectures/HS22/DA/index.html), teaching assistant, Fall 2022
+
+- [Algorithms and Data Structures](https://cadmo.ethz.ch/education/lectures/HS23/DA/index.html), teaching assistant, Fall 2023
+- [Optimization for Data Science](https://ti.inf.ethz.ch/ew/courses/ODS23/index.html), teaching assistant, Spring 2023
+- [Algorithms and Data Structures](https://cadmo.ethz.ch/education/lectures/HS22/DA/index.html), teaching assistant, Fall 2022
