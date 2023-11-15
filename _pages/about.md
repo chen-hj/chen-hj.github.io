@@ -21,7 +21,7 @@ I am interested in theoretical computer science, especially algorithms and compl
 
 ## Publications
 
-- **Private graphon estimation via sum-of-squares** with Jingqiu Ding, Tommaso d'Orsi, Yiding Hua, David Steurer, Chih-Hung Liu. *In submission, 2023*.
+<!-- - **Private graphon estimation via sum-of-squares** with Jingqiu Ding, Tommaso d'Orsi, Yiding Hua, David Steurer, Chih-Hung Liu. *In submission, 2023*. -->
 
 - **Private estimation algorithms for stochastic block models and mixture models** with Vincent Cohen-Addad, Tommaso d'Orsi, Alessandro Epasto, Jacob Imola, David Steurer, Stefan Tiegel. *NeurIPS 2023 (spotlight)*. [arxiv](https://arxiv.org/abs/2301.04822)
 
