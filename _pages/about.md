@@ -11,6 +11,7 @@ redirect_from:
 I am a PhD student in the [Department of Computer Science at ETH Zurich](https://inf.ethz.ch), advised by [David Steurer](https://www.dsteurer.org).
 
 I am interested in theoretical computer science, especially algorithms and complexity of problems arising in machine learning and high-dimensional statistics.
+Recently I am thinking about differentially private statistics and related sampling problems.
 
 ## Education
 
