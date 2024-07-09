@@ -24,7 +24,7 @@ Recently I am thinking about differentially private statistics and related sampl
 
 - **Private Edge Density Estimation for Random Graphs: Optimal, Efficient and Robust** with Jingqiu Ding, Yiding Hua, David Steurer. *In submission*. [arxiv](https://arxiv.org/abs/2405.16663)
 
-- **Private graphon estimation via sum-of-squares** with Jingqiu Ding, Tommaso d'Orsi, Yiding Hua, David Steurer, Chih-Hung Liu. *STOC 2024 (to appear)*. [arxiv](https://arxiv.org/abs/2403.12213)
+- **Private graphon estimation via sum-of-squares** with Jingqiu Ding, Tommaso d'Orsi, Yiding Hua, David Steurer, Chih-Hung Liu. *STOC 2024*. [arxiv](https://arxiv.org/abs/2403.12213)
 
 - **Private estimation algorithms for stochastic block models and mixture models** with Vincent Cohen-Addad, Tommaso d'Orsi, Alessandro Epasto, Jacob Imola, David Steurer, Stefan Tiegel. *NeurIPS 2023 (spotlight)*. [arxiv](https://arxiv.org/abs/2301.04822)
 
