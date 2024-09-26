@@ -21,6 +21,7 @@ Recently I am thinking about differentially private statistics and related sampl
 
 
 ## Publications
+- **Outlier-robust Mean Estimation near the Breakdown Point via Sum-of-Squares** with Deepak Narayanan, David Steurer. *In submission*.
 
 - **Private Edge Density Estimation for Random Graphs: Optimal, Efficient and Robust** with Jingqiu Ding, Yiding Hua, David Steurer. *NeurIPS 2024 (spotlight)*. [arxiv](https://arxiv.org/abs/2405.16663)
 
@@ -33,6 +34,5 @@ Recently I am thinking about differentially private statistics and related sampl
 
 ## Teaching
 
-- [Algorithms and Data Structures](https://cadmo.ethz.ch/education/lectures/HS23/DA/index.html), teaching assistant, Fall 2023
+- [Algorithms and Data Structures](https://cadmo.ethz.ch/education/lectures/HS23/DA/index.html), teaching assistant, Fall 2024, 2023, 2022
 - [Optimization for Data Science](https://ti.inf.ethz.ch/ew/courses/ODS23/index.html), teaching assistant, Spring 2023
-- [Algorithms and Data Structures](https://cadmo.ethz.ch/education/lectures/HS22/DA/index.html), teaching assistant, Fall 2022
