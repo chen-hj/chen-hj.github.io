@@ -21,7 +21,7 @@ Recently I am thinking about differentially private statistics and related sampl
 
 
 ## Publications
-- **Outlier-robust Mean Estimation near the Breakdown Point via Sum-of-Squares** with Deepak Narayanan, David Steurer. *In submission*.
+- **Outlier-robust Mean Estimation near the Breakdown Point via Sum-of-Squares** with Deepak Narayanan, David Steurer. *SODA 2025 (to appear)*.
 
 - **Private Edge Density Estimation for Random Graphs: Optimal, Efficient and Robust** with Jingqiu Ding, Yiding Hua, David Steurer. *NeurIPS 2024 (spotlight)*. [arxiv](https://arxiv.org/abs/2405.16663)
 
