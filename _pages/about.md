@@ -23,7 +23,7 @@ Recently I am thinking about differentially private statistics and related sampl
 ## Publications
 - **Outlier-robust mean estimation near the breakdown point via sum-of-squares** with Deepak Narayanan, David Steurer. *SODA 2025*. [arxiv](https://arxiv.org/abs/2411.14305) [proceedings](https://epubs.siam.org/doi/abs/10.1137/1.9781611978322.105)
 
-- **Private edge density estimation for random graphs: optimal, efficient and robust** with Jingqiu Ding, Yiding Hua, David Steurer. *NeurIPS 2024 (spotlight)*. [arxiv](https://arxiv.org/abs/2405.16663)
+- **Private edge density estimation for random graphs: optimal, efficient and robust** with Jingqiu Ding, Yiding Hua, David Steurer. *NeurIPS 2024 (spotlight)*. [arxiv](https://arxiv.org/abs/2405.16663) [proceedings](https://openreview.net/pdf?id=4NQ24cHnOi)
 
 - **Private graphon estimation via sum-of-squares** with Jingqiu Ding, Tommaso d'Orsi, Yiding Hua, David Steurer, Chih-Hung Liu. *STOC 2024*. [arxiv](https://arxiv.org/abs/2403.12213)
 
