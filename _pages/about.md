@@ -34,5 +34,5 @@ Recently I am thinking about differentially private statistics and related sampl
 
 ## Teaching
 
-- [Algorithms and Data Structures](https://cadmo.ethz.ch/education/lectures/HS23/DA/index.html), teaching assistant, Fall 2024, 2023, 2022
+- [Algorithms and Data Structures](https://cadmo.ethz.ch/education/lectures/HS23/DA/index.html), teaching assistant, Fall 2025, 2024, 2023, 2022
 - [Optimization for Data Science](https://ti.inf.ethz.ch/ew/courses/ODS23/index.html), teaching assistant, Spring 2023
