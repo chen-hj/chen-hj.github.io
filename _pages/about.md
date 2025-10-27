@@ -21,7 +21,7 @@ with a focus on high-dimensional statistical estimation under (differential) pri
 
 
 ## Publications
-- **Improved robust estimation for Erd\H{o}s-R\'{e}nyi graphs: the sparse regime and optimal breakdown point** with Jingqiu Ding, Yiding Hua, Stefan Tiegel. *NeurIPS 2025*. [arxiv](https://arxiv.org/abs/2503.03923)
+- **Improved robust estimation for Erdős-Rényi graphs: the sparse regime and optimal breakdown point** with Jingqiu Ding, Yiding Hua, Stefan Tiegel. *NeurIPS 2025*. [arxiv](https://arxiv.org/abs/2503.03923)
 
 - **Outlier-robust mean estimation near the breakdown point via sum-of-squares** with Deepak Narayanan, David Steurer. *SODA 2025*. [arxiv](https://arxiv.org/abs/2411.14305) [proceedings](https://epubs.siam.org/doi/abs/10.1137/1.9781611978322.105)
 
