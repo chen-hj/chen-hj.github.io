@@ -21,6 +21,8 @@ with a focus on high-dimensional statistical estimation under (differential) pri
 
 
 ## Publications
+- **On Efficient Robust Regression with Subquadratic Samples** with Deeksha Adil, Jaroslaw Blasiok, Deepak Narayanan. *COLT 2026*.
+
 - **Fast and optimal algorithms for private hypothesis selection** with Hilal Asi. *ICML 2026*.
 
 - **Improved robust estimation for Erdős-Rényi graphs: the sparse regime and optimal breakdown point** with Jingqiu Ding, Yiding Hua, Stefan Tiegel. *NeurIPS 2025*. [arxiv](https://arxiv.org/abs/2503.03923)
