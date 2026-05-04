@@ -21,7 +21,7 @@ with a focus on high-dimensional statistical estimation under (differential) pri
 
 
 ## Publications
-- **On Efficient Robust Regression with Subquadratic Samples** with Deeksha Adil, Jaroslaw Blasiok, Deepak Narayanan. *COLT 2026*.
+- **On efficient robust regression with subquadratic samples** with Deeksha Adil, Jaroslaw Blasiok, Deepak Narayanan. *COLT 2026*.
 
 - **Fast and optimal algorithms for private hypothesis selection** with Hilal Asi. *ICML 2026*.
 
