@@ -12,6 +12,7 @@ I am a PhD student in the [Department of Computer Science at ETH Zurich](https:/
 
 I am broadly interested in trustworthy machine learning and theoretical computer science,
 with a focus on high-dimensional statistical estimation under (differential) privacy and robustness considerations.
+[CV](https://drive.google.com/file/d/1UXpfoWfg9aO17kS4_DZThOn0jqBDS5r3/view?usp=sharing).
 
 ## Education
 
